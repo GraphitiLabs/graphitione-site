@@ -1,7 +1,7 @@
 {
   "name": "open-pro-react",
   "version": "0.1.0",
-  "homepage": "https://graphitilabs.github.io/graphiti-site",
+  "homepage": "https://graphitilabs.github.io/graphitione-site",
   "scripts": {
     "predeploy": "vite build",
     "deploy": "gh-pages -d dist",
