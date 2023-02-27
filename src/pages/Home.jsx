@@ -28,7 +28,7 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <Tabs />
+        {/* <Tabs /> */}
         {/* <FeaturesHome /> */}
         <Process />
         {/* <Target /> */}

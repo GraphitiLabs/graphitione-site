@@ -29,16 +29,14 @@ function HeroHome() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h2 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400" data-aos="fade-up">Making artificial intelligence a blockchain native resource</h2>
+            <h2 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400" data-aos="fade-up">Securing Web3 with Privacy-Preserving KYC and Intelligent Fraud Detection</h2>
             <div className="text-2xl text-gray-700 mb-8 pt-4" data-aos="fade-up" data-aos-delay="200">
               <p>
-                Imagine a world where AI systems are not controlled by any single entity or organization,
-                but instead are
-                <span className='text-blue-500 font-semibold'> transparent</span>,
-                <span className='text-blue-500 font-semibold'> accountable</span>, and
-                <span className='text-blue-500 font-semibold'> resistant</span>,
-                to censorship or tampering. This is the world of trustless AI,
-                and it is the technology that will help solve the most pressing problems in the decentralized web.
+              Graphiti secures Web3 with privacy-preserving
+                <span className='text-blue-500 font-semibold'> KYC</span>,
+                <span className='text-blue-500 font-semibold'> fraud detection</span>, and
+                <span className='text-blue-500 font-semibold'> access control</span>,
+                for decentralized financial products. Protect customer data and attract new users with our end-to-end data middleware.
                 </p>
             </div>
             {/* <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">

@@ -18,7 +18,7 @@ function HeroAbout() {
           <div className="max-w-3xl mx-auto text-center">
             <h1 className="h2 mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400" data-aos="fade-up">The story behind Graphiti</h1>
             <p className="text-2xl text-gray-700" data-aos="fade-up" data-aos-delay="200">
-            Our vision is to build products that use artificial intelligence to increase the usability and capability of blockchains, in the same way that big data and AI revolutionized the tech industry in the past decade.
+            Our vision at Graphiti is to enable a safer and more transparent Web3 ecosystem by providing advanced security solutions that empower businesses to comply with regulation, mitigate risks, and build trust with their customers.
             </p>
           </div>
         </div>
