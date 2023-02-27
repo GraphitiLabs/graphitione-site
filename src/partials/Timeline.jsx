@@ -83,7 +83,7 @@ function Timeline() {
                   <div className="absolute left-0 w-2 h-2 bg-blue-500 border-4 box-content border-gray-900 rounded-full ml-20 transform -translate-x-1/2" aria-hidden="true"></div>
                   <h4 className="h4">Researching Cryptographic Primitives</h4>
                 </div>
-                <p className="text-lg  text-gray-700">R&D to identify the right cryptographic primitives for making trustless AI viable.</p>
+                <p className="text-lg  text-gray-700">R&D to identify the right cryptographic primitives for use cases.</p>
               </div>
             </div>
 
